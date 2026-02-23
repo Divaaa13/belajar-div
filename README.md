@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> belajar-div </title>
+    <title>belajar-div</title>
 </head>
 <body>
     <h1>JURUSAN SMK PGRI 2 PONOROGO</h1>
